@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "surname": "Smith",
+        "email": "alice@example.com",
+        "issuedBook": 101,
+        "issuedDate": "2024-06-01",
+        "returnDate": "2024-06-15",
+        "subscriptionType": "standard",
+        "subscriptionOnDate": "2024-01-01"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "surname": "Johnson",
+        "email": "bob@example.com",
+        "issuedBook": null,
+        "issuedDate": null,
+        "returnDate": null,
+        "subscriptionType": "premium",
+        "subscriptionOnDate": "2024-02-01"
+    },
+    {
+        "id": 3,
+        "name": "Carol",
+        "surname": "Williams",
+        "email": "carol@example.com",
+        "issuedBook": 102,
+        "issuedDate": "2024-06-05",
+        "returnDate": "2024-06-20",
+        "subscriptionType": "standard",
+        "subscriptionOnDate": "2024-03-01"
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "surname": "Brown",
+        "email": "david@example.com",
+        "issuedBook": null,
+        "issuedDate": null,
+        "returnDate": null,
+        "subscriptionType": "basic",
+        "subscriptionOnDate": "2024-04-01"
+    }
+]
